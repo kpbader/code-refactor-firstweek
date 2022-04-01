@@ -1,19 +1,16 @@
-# Code Refactor Starter Code
-
 # Hoirseon refactor
 
-## Purpose
-A website that offers search engine optimization as well as online/social media marketing solutions. 
+## Description
+A code refactor exercise for a website that offers search engine optimization as well as online/social media marketing solutions. 
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
+https://kpbader.github.io/code-refactor-firstweek/
 
-
-
-<img width="1304" alt="Screen Shot 2021-12-26 at 9 52 23 AM" src="https://user-images.githubusercontent.com/94590338/147414209-4374e383-bdb1-485e-85e1-78da0d6d3298.png">
+## Screenshot 
 
 
 ## Contribution
